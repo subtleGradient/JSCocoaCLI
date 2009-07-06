@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F4F68AE510023D5C007D4C12 /* JSCocoaCLI */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* JSCocoaCLI */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* JSCocoaCLI */,
+		);
+		codeSenseManager = F4F68AEE10023D67007D4C12 /* Code sense */;
+		executables = (
+			F4F68AE510023D5C007D4C12 /* JSCocoaCLI */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					231,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268582236;
+			PBXWorkspaceStateSaveDate = 268582236;
+		};
+		perUserProjectItems = {
+			F4F68AE810023D67007D4C12 /* PBXTextBookmark */ = F4F68AE810023D67007D4C12 /* PBXTextBookmark */;
+			F4F68AE910023D67007D4C12 /* PBXTextBookmark */ = F4F68AE910023D67007D4C12 /* PBXTextBookmark */;
+			F4F68AF810023E68007D4C12 /* PBXTextBookmark */ = F4F68AF810023E68007D4C12 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F4F68AED10023D67007D4C12 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* JSCocoaCLI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 994}}";
+			sepNavSelRange = "{1595, 0}";
+			sepNavVisRange = "{0, 557}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* JSCocoaCLI */ = {
+		activeExec = 0;
+		executables = (
+			F4F68AE510023D5C007D4C12 /* JSCocoaCLI */,
+		);
+	};
+	F4F68AE510023D5C007D4C12 /* JSCocoaCLI */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JSCocoaCLI;
+		sourceDirectories = (
+		);
+	};
+	F4F68AE810023D67007D4C12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* JSCocoaCLI.m */;
+		name = "JSCocoaCLI.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	F4F68AE910023D67007D4C12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* JSCocoaCLI.m */;
+		name = "JSCocoaCLI.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	F4F68AED10023D67007D4C12 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	F4F68AEE10023D67007D4C12 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F4F68AF810023E68007D4C12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* JSCocoaCLI.m */;
+		name = "JSCocoaCLI.m: 71";
+		rLen = 0;
+		rLoc = 1595;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+}
