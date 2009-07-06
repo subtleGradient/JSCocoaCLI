@@ -55,6 +55,7 @@
 			F4F68AE810023D67007D4C12 /* PBXTextBookmark */ = F4F68AE810023D67007D4C12 /* PBXTextBookmark */;
 			F4F68AE910023D67007D4C12 /* PBXTextBookmark */ = F4F68AE910023D67007D4C12 /* PBXTextBookmark */;
 			F4F68AF810023E68007D4C12 /* PBXTextBookmark */ = F4F68AF810023E68007D4C12 /* PBXTextBookmark */;
+			F4F68AF910023ED5007D4C12 /* PBXTextBookmark */ = F4F68AF910023ED5007D4C12 /* PBXTextBookmark */;
 		};
 		sourceControlManager = F4F68AED10023D67007D4C12 /* Source Control */;
 		userBuildSettings = {
@@ -62,8 +63,8 @@
 	};
 	08FB7796FE84155DC02AAC07 /* JSCocoaCLI.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 994}}";
-			sepNavSelRange = "{1595, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1050}}";
+			sepNavSelRange = "{440, 0}";
 			sepNavVisRange = "{0, 557}";
 		};
 	};
@@ -133,6 +134,16 @@
 		name = "JSCocoaCLI.m: 71";
 		rLen = 0;
 		rLoc = 1595;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+	F4F68AF910023ED5007D4C12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* JSCocoaCLI.m */;
+		name = "JSCocoaCLI.m: 14";
+		rLen = 0;
+		rLoc = 440;
 		rType = 0;
 		vrLen = 557;
 		vrLoc = 0;
